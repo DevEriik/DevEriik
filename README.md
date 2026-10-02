@@ -1,15 +1,15 @@
 <div align="center">
 
 <a href="https://github.com/DeVeriik">
-  <img src="profile-scan.svg" width="100%" alt="Perfil Web Developer de Erick">
+  <img src="profile-scan.svg?v=2" width="100%" alt="Perfil Web Developer de Erick">
 </a>
 
 <a href="https://github.com/DeVeriik">
-  <img src="language-stack.svg" width="100%" alt="Lenguajes más usados">
+  <img src="language-stack.svg?v=2" width="100%" alt="Lenguajes más usados">
 </a>
 
 <a href="https://github.com/DeVeriik">
-  <img src="https://raw.githubusercontent.com/DeVeriik/DeVeriik/output/space-shooter.gif" width="100%" alt="Animated contribution Space Shooter game">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=DeVeriik&theme=aurora&style=jet" width="100%" alt="Jet contribution game">
 </a>
 
 </div>
