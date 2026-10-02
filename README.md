@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- LOCAL CITY-POP BANNER -->
-<a href="https://github.com/deveriick">
+<a href="https://github.com/DeVeriik">
   <img src="banner.svg" width="960" alt="Perfil Web Developer de Erick">
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=deveriick&style=flat&color=5391FE&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=DeVeriik&style=flat&color=5391FE&label=profile+views" alt="profile views">
 
 </div>
 
@@ -15,16 +15,9 @@
 
 ## `$ whoami`
 
-```bash
-deveriick@github:~$ whoami
-Erick Gonzalez
-
-deveriick@github:~$ cat about-me.txt
-- 💻 I'm currently learning and building projects with web technologies.
-- 🌱 I'm focused on improving my skills in both front-end and back-end development.
-- 🚀 Future Goals: Become a full-stack developer and create amazing web applications.
-- ⚡ Fun fact: I love to solve coding challenges.
-```
+<div align="center">
+  <img src="whoami.svg" width="960" alt="Erick Gonzalez - Web Developer">
+</div>
 
 <br>
 
@@ -35,7 +28,7 @@ deveriick@github:~$ cat about-me.txt
 <table border="1" cellpadding="14" bgcolor="#17171c">
   <thead>
     <tr>
-      <th colspan="2" align="left"><code>deveriick:~$ cat tech-stack.yaml</code></th>
+      <th colspan="2" align="left"><code>DeVeriik:~$ cat tech-stack.yaml</code></th>
     </tr>
   </thead>
   <tbody>
@@ -51,8 +44,8 @@ deveriick@github:~$ cat about-me.txt
     </tr>
     <tr>
       <td valign="top"><code>├─ 🛠 tools_version_control:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Git, GitHub, VS Code, npm"><br>
-        <sub><code>Git · GitHub · VS Code · npm</code></sub>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker" alt="Git, GitHub, VS Code, npm, Docker"><br>
+        <sub><code>Git · GitHub · VS Code · npm · Docker</code></sub>
       </td>
       <td valign="top"><code>├─ 🐧 os_terminal:</code><br><br>
         <img src="https://skillicons.dev/icons?i=linux,powershell" alt="Linux, PowerShell"><br>
@@ -71,17 +64,6 @@ deveriick@github:~$ cat about-me.txt
 
 ---
 
-## `$ get stats --github`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deveriick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=17171c" alt="Erick's GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveriick&layout=compact&theme=tokyonight&hide_border=true&bg_color=17171c" alt="Top Languages" width="48%">
-</p>
-
-<p align="center"><sub><code>signals: github_stats · top_languages · status: active</code></sub></p>
-
----
-
 <!-- SOCIALS -->
 ## `$ connect --socials`
 
@@ -93,6 +75,15 @@ deveriick@github:~$ cat about-me.txt
 <a href="https://www.linkedin.com/in/deveriick/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+<sub>Built by @DeVeriik · Student & Future Full-Stack Developer 🚀</sub>
+</div>
 
 </div>
 
